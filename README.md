@@ -1,7 +1,7 @@
 ## Olá, me chamo Nathan Gomes!!!
 
-- 🔭 Atualmente faço estágio no Colégio Notre Dame Ipanema
-- 🌱 Estudando HTML, CSS e JS
+- 🖥️ Atualmente faço estágio no Colégio Notre Dame Ipanema
+- 📚 Estudando HTML, CSS e JS
 
 <!--Github Stats-->
 <div align="center">
