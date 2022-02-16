@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Oi !!!</h1>
 <h2>Sou Nathan</h2> <br>
-<p font-weight:"500"> Atualmente estou estagiando no colégio Notre Dame Ipanema e cursando 3º período de Ciências da computação, tenho o objetivo de me tornar um desenvolvedor fullstack. Sempre interessado em tecnologia e buscando sempre mais informações sobre o assunto e exercitando tecnologias por aqui.</p>
+<h3> Atualmente estou estagiando no colégio Notre Dame Ipanema e cursando 3º período de Ciências da computação, tenho o objetivo de me tornar um desenvolvedor fullstack. Sempre interessado em tecnologia e buscando sempre mais informações sobre o assunto e exercitando tecnologias por aqui.</h3>
 </div>
 <!--Github Stats-->
 <div align="center">
@@ -28,7 +28,6 @@
   <img align="center" alt="nathan-IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
   <img align="center" alt="nathan-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="nathan-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  
   <img align="right" alt="nathan-gif" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif"> <!--gif-->
 </div>
   
