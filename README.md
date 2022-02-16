@@ -1,9 +1,8 @@
-## Olá!!!
-
-- 🖥️ Atualmente faço estágio no Colégio Notre Dame Ipanema
-- 📚 Estudando HTML, CSS e JS
-- 🎯 Foco em full-stack
-
+<div align="center">
+<h1>Oi!!!</h1>
+<h2>Sou Nathan</h2> <br>
+<p font-weight:"500"> Atualmente estou estagiando no colégio Notre Dame Ipanema e cursando 3º período de Ciências da computação, tenho o objetivo de me tornar um desenvolvedor fullstack. Sempre interessado em tecnologia e buscando sempre mais informações sobre o assunto e exercitando tecnologias por aqui.</p>
+</div>
 <!--Github Stats-->
 <div align="center">
   <a href="https://github.com/nathan-gomes">
@@ -13,10 +12,10 @@
 
 <!--Linguagens utilizadas-->
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif">
+  <img align="center" alt="nathan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="nathan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" alt="nathan-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif"> <!--gif-->
 </div>
   
 ##  
