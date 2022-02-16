@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Oi!!!</h1>
+<h1>Oi !!!</h1>
 <h2>Sou Nathan</h2> <br>
 <p font-weight:"500"> Atualmente estou estagiando no colégio Notre Dame Ipanema e cursando 3º período de Ciências da computação, tenho o objetivo de me tornar um desenvolvedor fullstack. Sempre interessado em tecnologia e buscando sempre mais informações sobre o assunto e exercitando tecnologias por aqui.</p>
 </div>
@@ -12,9 +12,19 @@
 
 <!--Linguagens utilizadas-->
 <div style="display: inline_block"><br>
+  <h3> Tecnologias que estudo </h3>
+
   <img align="center" alt="nathan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="nathan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="nathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="nathan-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="nathan-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg>
+
+  <br>
+
+  <h3>Ferramentas que utilizo</h3>
+  
+  
   <img align="right" alt="nathan-pic" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif"> <!--gif-->
 </div>
   
