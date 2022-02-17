@@ -1,18 +1,18 @@
 <div align="center">
-<h1>Oi !!!</h1>
-<h2>Sou Nathan</h2> <br>
-<h3> Atualmente estou estagiando no colégio Notre Dame Ipanema e cursando 3º período de Ciências da computação, tenho o objetivo de me tornar um desenvolvedor fullstack. Sempre interessado em tecnologia e buscando sempre mais informações sobre o assunto e exercitando tecnologias por aqui.</h3>
+<h1>Oi, me chamo Nathan 👨‍💻 !!!</h1>
+<h3> Atualmente estou estagiando no colégio Notre Dame Ipanema e cursando 3º período de Ciências da computação, tenho o objetivo de me tornar um desenvolvedor fullstack. Sempre interessado em tecnologia e buscando mais informações sobre o assunto e exercitando tecnologias por aqui.</h3>
 </div>
 <!--Github Stats-->
 <div align="center">
   <a href="https://github.com/nathan-gomes">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nathan-gomes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-gomes&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathan-gomes&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-gomes&layout=compact&langs_count=7&theme=react&hide_border=true&bg_color=0D1117"/>
 </div>
+  <a href="https://github.com/nathan-gomes/nathan-gomes.git"><img alt="nathanActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=nathan-gomes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <!--Linguagens utilizadas-->
 <div style="display: inline_block"><br>
-  <h3> Tecnologias que estudo </h3>
+  <h3> Tecnologias que estudo e utilizo</h3>
 
   <img align="center" alt="nathan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="nathan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
