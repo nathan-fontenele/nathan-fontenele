@@ -28,7 +28,6 @@
   <img align="center" alt="nathan-IntelliJ" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
   <img align="center" alt="nathan-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="nathan-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="right" alt="nathan-gif" height="150" style="border-radius:50px;"
 </div>
   
 ##  
