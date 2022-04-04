@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Oi, me chamo Nathan 👨‍💻 !!!</h1>
-<h3> Atualmente estou estagiando no colégio Notre Dame Ipanema e cursando 3º período de Ciências da computação, tenho o objetivo de me tornar um desenvolvedor fullstack. Sempre interessado em tecnologia e buscando mais informações sobre o assunto e exercitando tecnologias por aqui.</h3>
+<h3> Atualmente estou estagiando no colégio Notre Dame Ipanema e cursando 3º período de Ciências da computação, tenho o objetivo de me tornar um desenvolvedor Fullstack. Sempre interessado em aprender novas tecnologias e modos de facilidar a vida através dela .</h3>
 </div>
 <!--Github Stats-->
 <div align="center">
