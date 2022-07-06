@@ -2,13 +2,7 @@
 <h1>Oi, me chamo Nathan 👨‍💻 !!!</h1>
 <h3> Atualmente estou estagiando no Colégio Notre Dame Ipanema e cursando 3º período de Ciências da computação, tenho o objetivo de me tornar um desenvolvedor Fullstack. Sempre interessado em aprender novas tecnologias e modos de facilidar a vida através dela .</h3>
 </div>
-<!--Github Stats-->
-<div align="center">
-  <a href="https://github.com/nathan-gomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathan-gomes&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-gomes&layout=compact&langs_count=7&theme=react&hide_border=true&bg_color=0D1117"/>
-</div>
-  <a href="https://github.com/nathan-gomes/nathan-gomes.git"><img alt="nathanActivity Graph" src="https://activity-graph.herokuapp.com/graph?username=nathan-gomes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <!--Linguagens utilizadas-->
 <div style="display: inline_block"><br>
