@@ -3,6 +3,12 @@
 <h3> Atualmente estou estagiando no Colégio Notre Dame Ipanema e cursando 3º período de Ciências da computação, tenho o objetivo de me tornar um desenvolvedor Fullstack. Sempre interessado em aprender novas tecnologias e modos de facilidar a vida através dela .</h3>
 </div>
 
+<div align="center">
+  <a href="https://github.com/nathan-fontenele">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathan-fontenele&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-fontenele&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
+
 
 <!--Linguagens utilizadas-->
 <div style="display: inline_block"><br>
