@@ -3,10 +3,12 @@
 <h3>
     📚 Estudando desenvolvimento front-end.<br>
     👨‍🎓 Graduando de ciências da computação. <br>
-    🎯 Foco em desenvolvimento Web.
+    🎯 Foco em desenvolvimento Web. <br>
     📖 Leitor nas horas vagas.
 </h3>
 </div>
+
+<br>
 
 <div align="left">
   <a href="https://github.com/nathan-fontenele">
