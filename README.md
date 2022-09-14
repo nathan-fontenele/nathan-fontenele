@@ -29,7 +29,8 @@
   <h3>Ferramentas que utilizo</h3>
   
   <img align="center" alt="nathan-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="nathan-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="40" align="center" alt="nathan-Figma" />
+
 </div>
   
 ##  
