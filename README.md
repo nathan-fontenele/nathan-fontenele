@@ -3,7 +3,7 @@
 <ul>
     <li>📚 Estudando desenvolvimento front-end.</li>
     <li>👨‍🎓 Graduando de ciências da computação.</li>
-    <li>🎯 Foco em desenvolvimento Web.</li>
+    <li>🎯 Foco em Back-end.</li>
     <li>📖 Leitor nas horas vagas.</li>
 </ul>
 </div>
