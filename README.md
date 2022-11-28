@@ -1,7 +1,7 @@
 <div align="left">
 <h1>Olá, sou Nathan</h1>
 <ul>
-    <li>📚 Estudando desenvolvimento front-end.</li>
+    <li>📚 Estudando desenvolvimento Back-end</li>
     <li>👨‍🎓 Graduando de ciências da computação.</li>
     <li>🎯 Foco em Back-end.</li>
     <li>📖 Leitor nas horas vagas.</li>
@@ -23,6 +23,8 @@
   <img align="center" alt="nathan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="nathan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="nathan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="nathan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+
 
 
   <br>
