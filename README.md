@@ -12,24 +12,22 @@
 
 <div align="left">
   <a href="https://github.com/nathan-fontenele">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nathan-fontenele&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-fontenele&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nathan-fontenele&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-fontenele&layout=compact&langs_count=7&theme=swift"/>
+
 </div>
 
 <!--Linguagens utilizadas-->
 <div style="display: inline_block"><br>
-  <h3> Tecnologias que estudo e utilizo</h3>
+  <h3> Tecnologias</h3>
 
   <img align="center" alt="nathan-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="nathan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="nathan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
-
-
   <br>
 
-  <h3>Ferramentas que utilizo</h3>
-  
+  <h3>Ferramentas</h3>
   <img align="center" alt="nathan-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="nathan-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 </div>
