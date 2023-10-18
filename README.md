@@ -1,4 +1,4 @@
-# Olá
+# Olá, como vai?
 
 - Graduando em ciências da computação
 - Focado em desenvolvimento Back-end com C# e Python
@@ -6,7 +6,7 @@
 
 Sou um graduando em Ciências da Computação. Atualmente, estou focado no desenvolvimento Back-end com C# e Python, além de trabalhar com aplicações RPA (Robotic Process Automation) e aplicações desktop Windows. Também tenho experiência no desenvolvimento Front-end utilizando XAML e XAMLUI.
 
-## Tecnologias
+## Pontos fortes
 
 - Desenvolvimento C# e Python
 - Aplicações RPA
