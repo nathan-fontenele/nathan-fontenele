@@ -1,23 +1,38 @@
-# Olá, como vai?
+# 👋 Olá, seja bem-vindo(a) ao meu GitHub!
 
-- Graduando em ciências da computação
-- Focado em desenvolvimento Back-end
-- Leitor nas horas vagas
+Sou graduando em **Ciência da Computação**, com foco em **desenvolvimento Back-end**, especialmente utilizando **C#**. Também tenho interesse por leitura nas horas vagas e gosto de explorar novos conceitos em tecnologia e arquitetura de software.
 
-Sou um graduando em Ciências da Computação. Atualmente, estou focado no desenvolvimento Back-end com C# e Python, além de trabalhar com aplicações RPA (Robotic Process Automation) e aplicações desktop Windows. Também tenho experiência no desenvolvimento Front-end utilizando XAML e XAMLUI.
+---
 
-## Pontos fortes
+## 🚀 Sobre mim
 
-- Desenvolvimento Back-end C# e Python
-- Aplicações RPA
-- Aplicações desktop Windows
-- Front-end com Xaml e XamlUI
+🎓 Graduando em Ciência da Computação  
+💻 Desenvolvedor Back-end apaixonado por resolver problemas com código limpo e eficiente  
+📚 Leitor e entusiasta de boas práticas de engenharia de software
 
-## Estudando
+---
 
-- Kotlin
-- Mobile
-- Java
+## 💡 Pontos fortes
+
+- ✅ Desenvolvimento Back-end com **C#** e **Python**
+- ✅ Criação de **aplicações desktop para Windows**
+- ✅ Experiência com integração de sistemas e automação de processos
+
+---
+
+## 📚 Atualmente estudando
+
+- 🔧 **Front-end** com **Next.js** e **Angular**
+- 🛢️ **Bancos de dados NoSQL** (MongoDB, Redis)
+- 🧱 **Arquitetura de software** (DDD, Clean Architecture, Microservices)
+
+---
+
+## 📫 Como me encontrar
+
+Você pode me encontrar aqui no GitHub ou me chamar para trocar uma ideia sobre tecnologia, livros ou projetos! 😊
+
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-fontenele&hide_progress=true&theme=radical&lang_count=5)
 <br>
