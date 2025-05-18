@@ -1,6 +1,6 @@
 # 👋 Olá, seja bem-vindo(a) ao meu GitHub!
 
-Sou graduando em **Ciência da Computação**, com foco em **desenvolvimento Back-end**, especialmente utilizando **C#**. Também tenho interesse por leitura nas horas vagas e gosto de explorar novos conceitos em tecnologia e arquitetura de software.
+Sou graduado em **Ciência da Computação**, com foco em **desenvolvimento Back-end**, especialmente utilizando **C#**. Também tenho interesse por leitura nas horas vagas e gosto de explorar novos conceitos em tecnologia e arquitetura de software.
 
 ---
 
@@ -17,7 +17,7 @@ Sou graduando em **Ciência da Computação**, com foco em **desenvolvimento Bac
 - ✅ Desenvolvimento Back-end com **C#** e **Python**
 - ✅ Criação de **aplicações desktop para Windows**
 - ✅ Experiência com integração de sistemas e automação de processos
-
+- ✅ Experiência com criação de REST APIs e integrações web
 ---
 
 ## 📚 Atualmente estudando
