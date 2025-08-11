@@ -6,7 +6,7 @@ Sou graduado em **Ciência da Computação**, com foco em **desenvolvimento Back
 
 ## 🚀 Sobre mim
 
-🎓 Graduando em Ciência da Computação  
+🎓 Graduado em Ciência da Computação  
 💻 Desenvolvedor Back-end apaixonado por resolver problemas com código limpo e eficiente  
 📚 Leitor e entusiasta de boas práticas de engenharia de software
 
@@ -22,7 +22,7 @@ Sou graduado em **Ciência da Computação**, com foco em **desenvolvimento Back
 
 ## 📚 Atualmente estudando
 
-- 🔧 **Front-end** com **Next.js** e **Angular**
+- 🔧 **Front-end** com **Angular**
 - 🛢️ **Bancos de dados NoSQL** (MongoDB, Redis)
 - 🧱 **Arquitetura de software** (DDD, Clean Architecture, Microservices)
 
