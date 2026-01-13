@@ -1,45 +1,37 @@
-# Olá, seja bem-vindo(a) ao meu GitHub!
+# Nathan Fontenele
 
-Sou graduado em **Ciência da Computação**, com foco em **desenvolvimento Back-end**, especialmente utilizando **C#**. Também tenho interesse por leitura nas horas vagas e gosto de explorar novos conceitos em tecnologia e arquitetura de software.
+Desenvolvedor de Software, graduado em Ciência da Computação. Possuo uma base sólida em **Back-end com .NET (C#)** e atuo no **Front-end com Angular e Blazor**, entregando soluções completas.
 
----
+Atualmente, meu foco profissional é elevar a qualidade das entregas através de práticas avançadas de engenharia de software (Testes Automatizados, Design Patterns) e expandir conhecimentos para o ecossistema Cloud Native.
 
-## 🚀 Sobre mim
+## Stack Tecnológico
 
-🎓 Graduado em Ciência da Computação  
-💻 Desenvolvedor Back-end apaixonado por resolver problemas com código limpo e eficiente  
-📚 Leitor e entusiasta de boas práticas de engenharia de software
+### Desenvolvimento & Linguagens
+* **C# (.NET):** Principal ferramenta de trabalho, com foco em código limpo e manutenível.
+* **Front-end:** Experiência prática com **Angular** e **Blazor**.
+* **Python:** Utilização em scripts de automação.
+* **Go (Golang):** Em fase de aprendizado e experimentação.
 
----
-
-## 💡 Pontos fortes
-
-- ✅ Desenvolvimento Back-end com **C#** e **Python**
-- ✅ Criação de **aplicações desktop para Windows**
-- ✅ Experiência com integração de sistemas e automação de processos
-- ✅ Experiência com criação de REST APIs e integrações web
----
-
-## 📚 Atualmente estudando
-
-- **Front-end** com **Angular**
-- **Bancos de dados NoSQL** (MongoDB, Redis)
-- **Arquitetura de software** (DDD, Clean Architecture, Microservices)
+### Práticas de Engenharia
+Busco aplicar conceitos que garantem a longevidade do software:
+* **Qualidade:** Testes Unitários com xUnit.
+* **Design:** Injeção de Dependência, SOLID e Clean Code.
+* **APIs:** Construção de serviços RESTful.
 
 ---
 
-## 📫 Como me encontrar
+## Próximos Passos (Estudos Atuais)
 
-Você pode me encontrar aqui no GitHub ou me chamar para trocar uma ideia sobre tecnologia, livros ou projetos! 😊
+Estou aprofundando meus conhecimentos para atuar em cenários mais complexos e distribuídos:
 
----
+* **Infraestrutura:** Docker e Kubernetes (K8s).
+* **Arquitetura:** Estudo contínuo de Arquitetura de Software e Microsserviços.
+* **Nova Stack:** Desenvolvimento de serviços em Go.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-fontenele&layout=compact&theme=radical)
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathan-fontenele&show_icons=true&theme=radical)
-	
 ## Contato
-<!--Redes sociais-->  
-<div align="left"> 
-  <a href="https://www.linkedin.com/in/nathanfontenele/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/nathanfontenele/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
