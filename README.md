@@ -39,7 +39,12 @@ Estou aprofundando meus conhecimentos para atuar em cenários mais complexos e d
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathan-fontenele&theme=github_dark" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nathan-fontenele&theme=github_dark" alt="Top languages used in repositories" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nathan-fontenele&theme=github_dark" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nathan-fontenele&theme=github_dark" alt="Productive time" />
 </p>
 
 ## Contato
