@@ -1,56 +1,57 @@
-# Nathan Fontenele
+<h1 align="center">Fala! Eu sou Nathan 👋</h1>
 
-Desenvolvedor de Software, graduado em Ciência da Computação. Possuo uma base sólida em **Back-end com .NET (C#)** e atuo no **Front-end com Angular e Blazor**, entregando soluções completas.
+<p align="center">
+  Desenvolvedor de software formado em Ciência da Computação<br />
+  <strong>Back-end com .NET/C# · aplicações web · sistemas nativos com Rust</strong>
+</p>
 
-Atualmente, meu foco profissional é elevar a qualidade das entregas através de práticas avançadas de engenharia de software (Testes Automatizados, Design Patterns) e expandir conhecimentos para o ecossistema Cloud Native.
-
-## Stack Tecnológico
-
-### Desenvolvimento & Linguagens
-* **C# (.NET):** Principal ferramenta de trabalho, com foco em código limpo e manutenível.
-* **Front-end:** Experiência prática com **Angular** e **Blazor**.
-* **Python:** Utilização em scripts de automação.
-* **Go (Golang):** Em fase de aprendizado e experimentação.
-
-### Práticas de Engenharia
-Busco aplicar conceitos que garantem a longevidade do software:
-* **Qualidade:** Testes Unitários com xUnit.
-* **Design:** Injeção de Dependência, SOLID e Clean Code.
-* **APIs:** Construção de serviços RESTful.
+<p align="center">
+  <a href="https://nathanfontenele.me">Portfólio</a> ·
+  <a href="https://www.linkedin.com/in/nathanfontenele/">LinkedIn</a> ·
+  <a href="https://github.com/nathan-fontenele?tab=repositories">Repositórios</a>
+</p>
 
 ---
 
-## Próximos Passos (Estudos Atuais)
+## Sobre mim
 
-Estou aprofundando meus conhecimentos para atuar em cenários mais complexos e distribuídos:
+Gosto de acompanhar o software de ponta a ponta: entender o problema, modelar as regras, construir serviços testáveis e conectar tudo a uma interface que faça sentido. Meu foco principal é o **back-end com C# e .NET**. Nos projetos web, também trabalho com front-end; no open source, exploro **Rust, sistemas nativos e comunicação com hardware**.
 
-* **Infraestrutura:** Docker e Kubernetes (K8s).
-* **Arquitetura:** Estudo contínuo de Arquitetura de Software e Microsserviços.
-* **Nova Stack:** Desenvolvimento de serviços em Go.
+Curto código que deixa as decisões claras e projetos que resolvem problemas reais — de uma regra de negócio a um botão de mouse que finalmente faz o que deveria. 🙂
 
+## Projetos que mostram meu jeito de desenvolver
 
+- **[OpenLogi](https://github.com/nathan-fontenele/OpenLogi)** — contribuo com um aplicativo open source escrito em Rust para configurar dispositivos Logitech. É onde trabalho com sistemas nativos, HID++ e integração com hardware.
+- **[Pata Backend](https://github.com/nathan-fontenele/pata-backend)** — backend .NET para gestão veterinária, com domínio e aplicação separados e testes automatizados para as regras de negócio.
+- **[eShop Modular Monolith](https://github.com/nathan-fontenele/eshop-modular-monoliths)** — projeto de estudo sobre monólito modular, DDD, organização por módulos e padrão outbox.
+- **[Projetos em C](https://github.com/nathan-fontenele/42-push-swap)** — exercícios de algoritmos e fundamentos de baixo nível que complementam meu trabalho com linguagens de mais alto nível.
 
-![.NET](https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-0F0F11.svg?style=for-the-badge&logo=Angular&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000.svg?style=for-the-badge&logo=JSON&logoColor=white) ![JWT](https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white) ![MySql](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white) ![SQLITE](https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=SQLite&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=RabbitMQ&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black) 
+## Minha caixa de ferramentas
+
+| Área | Tecnologias e práticas |
+| --- | --- |
+| **Back-end e arquitetura** | C#, .NET, APIs REST, xUnit, SOLID, arquitetura hexagonal e monólito modular |
+| **Front-end e aplicações web** | Angular, Blazor, React, Next.js e TypeScript |
+| **Sistemas e hardware** | Rust, C, HID++ e GPUI |
+| **Dados e integração** | PostgreSQL, MySQL, SQLite, SQL Server, T-SQL e RabbitMQ |
+| **Automação e operação** | Python, Docker, Kubernetes, Linux, Grafana e Azure DevOps |
+| **Outros projetos e estudos** | Java e Go |
+
+## No momento
+
+Tenho aprofundado arquitetura de software, microsserviços e Kubernetes, enquanto continuo explorando Go. Também gosto de aprender construindo: os repositórios públicos mostram experimentos em C, Java, .NET, front-end e Rust.
 
 ## Atividade no GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nathan-fontenele&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=nathan-fontenele&amp;theme=dark" alt="Sequência de contribuições no GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nathan-fontenele&theme=github_dark" alt="Top languages used in repositories" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nathan-fontenele&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nathan-fontenele&amp;theme=github_dark" alt="Linguagens mais usadas nos repositórios" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nathan-fontenele&amp;theme=github_dark" alt="Estatísticas do GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nathan-fontenele&theme=github_dark" alt="Productive time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nathan-fontenele&amp;theme=github_dark" alt="Horários de atividade no GitHub" />
 </p>
-
-## Contato
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/nathanfontenele/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
