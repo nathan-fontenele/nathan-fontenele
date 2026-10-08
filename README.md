@@ -43,15 +43,48 @@ Tenho aprofundado arquitetura de software, microsserviços e Kubernetes, enquant
 
 ## Atividade no GitHub
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nathan-fontenele&amp;theme=dark" alt="Sequência de contribuições no GitHub" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nathan-fontenele&amp;theme=github_dark" alt="Linguagens mais usadas nos repositórios" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nathan-fontenele&amp;theme=github_dark" alt="Estatísticas do GitHub" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nathan-fontenele&amp;theme=github_dark" alt="Horários de atividade no GitHub" />
-</p>
+<h2 align="center">GitHub Statistics</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="400">
+      <img
+        width="400"
+        height="180"
+        src="https://streak-stats.demolab.com?user=nathan-fontenele&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak"
+      />
+    </td>
+    <td align="center" width="400">
+      <img
+        width="400"
+        height="180"
+        src="https://github-readme-stats.vercel.app/api?username=nathan-fontenele&show_icons=true&theme=tokyonight&hide_border=true"
+        alt="GitHub Statistics"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="400">
+      <img
+        width="400"
+        height="180"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathan-fontenele&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+        alt="Most Used Languages"
+      />
+    </td>
+    <td align="center" width="400">
+      <img
+        width="400"
+        height="180"
+        src="https://ghstats.dev/api/sparkline?username=nathan-fontenele&theme=tokyonight&days=30&width=400&height=180"
+        alt="Contribution Sparkline"
+      />
+    </td>
+  </tr>
+</table>
+
+
+
