@@ -41,11 +41,7 @@ Curto código que deixa as decisões claras e projetos que resolvem problemas re
 
 Tenho aprofundado arquitetura de software, microsserviços e Kubernetes, enquanto continuo explorando Go. Também gosto de aprender construindo: os repositórios públicos mostram experimentos em C, Java, .NET, front-end e Rust.
 
-## Atividade no GitHub
-
-
-
-<h2 align="center">GitHub Statistics</h2>
+<h2 align="center">Atividade no GitHub</h2>
 
 <table align="center">
   <tr>
